@@ -1,4 +1,4 @@
-👨‍🏫 Notas de JavaScript 👨‍🚀 👩‍🚀
+👨‍🏫 ##Notas de JavaScript 👨‍🚀 👩‍🚀
 
 🚀🚀 Estos son apuntes de consulta personal de cursos de JavaScript 🚀🚀
 Sientete libre de consultar las notas si te son de utilidad.
